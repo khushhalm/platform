@@ -5,11 +5,11 @@ This repo is for my Flask based REST API, it is also hosting a flask based web a
 ![Login Page](/pictures/login.jpg)
 This is the login popup for the platform.
 
-![Dashboard Page](pictures/dashboard.jpg)
+![Dashboard Page](/pictures/dashboard.jpg)
 This is the pic of the dashboard which is being showed to the user.
 
-![Our kart pic](platform/pictures/wor.jpg)
+![Our kart pic](/pictures/wor.jpg)
 Picture of our final kart on which we tested our IoT enabled telemetry system.
 
-![Kart Innovation Poster](platform/pictures/Screenshot (219).png)
+![Kart Innovation Poster](/pictures/Screenshot (219).png)</br>
 Finally this was the poster of the team where we have highlighted our Innovation. 
