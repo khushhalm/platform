@@ -2,10 +2,10 @@
 Python-flask
 This repo is for my Flask based REST API, it is also hosting a flask based web app to be able to display the data.
 
-![Login Page](platform/pictures/login.jpg)
+![Login Page](/pictures/login.jpg)
 This is the login popup for the platform.
 
-![Dashboard Page](platform/pictures/dashboard.jpg)
+![Dashboard Page](pictures/dashboard.jpg)
 This is the pic of the dashboard which is being showed to the user.
 
 ![Our kart pic](platform/pictures/wor.jpg)
