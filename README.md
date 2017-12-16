@@ -11,5 +11,5 @@ This is the pic of the dashboard which is being showed to the user.
 ![Our kart pic](/pictures/wor.jpg)</br>
 Picture of our final kart on which we tested our IoT enabled telemetry system.
 
-![Kart Innovation Poster](/pictures/Screenshot (219).png)</br>
+![Kart Innovation Poster](/pictures/Screenshot%20(219).png)</br>
 Finally this was the poster of the team where we have highlighted our Innovation. 
